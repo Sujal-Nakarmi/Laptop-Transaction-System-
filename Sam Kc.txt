@@ -1,0 +1,23 @@
+	 	 	 	 Nakarmi Shop Bill
+	 	 Kamalpokhari, Kathmandu | Phone No: 9811112255
+Laptop details are:
+
+Name of the Company : Apple
+Name of the Customer :Sam Kc
+Contact number :7364734
+Address :Baneshowr
+Date and time of sold Laptops : 2023-05-11 16:44:37.197044
+
+Purchase Details are:
+
+|----------------------------------------------------------
+|Laptop Name     Brand      Qauntity     Price      Total
+|----------------------------------------------------------
+|Razer Blade     Razer         5           2000      10000.0   
+
+|XPS             Dell          5           1976      9880.0    
+
+							 Total : $19880
+Your Vat is:2584.4
+Grand Total: $22464.4
+		Thank You For Purchasing!! Feel Free to Come Again!! Have a Good Day!

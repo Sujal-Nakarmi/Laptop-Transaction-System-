@@ -1,0 +1,25 @@
+	 	 	 	 Nakarmi Shop Bill
+	 	 Kamalpokhari, Kathmandu | Phone No: 9811112255
+Laptop details are:
+
+Name of the Customer:Ram Prasad
+Contact number:872832
+Address: BHotebahal
+Date and time of sold Laptops: 2023-05-11 16:43:44.087132
+
+Purchase Details are:
+
+|----------------------------------------------------------
+|Laptop Name     Brand      Qauntity     Price      Total
+|----------------------------------------------------------
+|Razer Blade     Razer         5           2000      10000.0   
+
+|XPS             Dell          5           1976      9880.0    
+
+|Razer Blade     Razer         5           2000      10000.0   
+
+|Alienware       Alienware     5           1978      9890.0    
+
+
+Grand Total: $39770.0
+		Thank You For Purchasing!! Feel Free to Come Again!! Have a Good Day!

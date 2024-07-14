@@ -1,0 +1,23 @@
+	 	 	 	 Nakarmi Shop Bill
+	 	 Kamalpokhari, Kathmandu | Phone No: 9811112255
+Laptop details are:
+
+Name of the Customer:Sujal Nakarmi
+Contact number:28832
+Address:New Road
+Date and time of sold Laptops: 2023-05-11 16:43:04.784789
+
+Purchase Details are:
+
+|----------------------------------------------------------
+|Laptop Name     Brand      Qauntity     Price      Total
+|----------------------------------------------------------
+|Razer Blade     Razer         5           2000      10000.0   
+
+|XPS             Dell          5           1976      9880.0    
+
+
+							 Total : $19880.0
+Your Shipping cost is :250
+Grand Total : $20130.0
+		Thank You For Purchasing!! Feel Free to Come Again!! Have a Good Day!
